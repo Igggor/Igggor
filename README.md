@@ -1,5 +1,5 @@
 - 👀 I’m interested in coding and PC assembly
-- 🌱 I’m currently learning in school in 10th class in IT school
+- 🌱 I’m finished 11 classes in IT school, studied 5 years in Moscow School of Programmists
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can find me in telegramm [@igreeda](https://t.me/IgreedaIT)
 
