@@ -20,7 +20,7 @@ Python
 - Olympiad programming
 - More and more diff skills...
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on DroneController on GitLab 
 
 🌱 I’m finished 11 classes in IT school, studied 5 years in Moscow School of Programmists
 
